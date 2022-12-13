@@ -12,3 +12,7 @@ while polling_active:
             print(f"{name} is really wants to {response}.")
         polling_active = False
         break
+    elif repeat == 'yes':
+        continue
+    elif repeat != 'yes' or repeat != 'no':
+        print(f"Don't understand '{repeat}', try again.")
