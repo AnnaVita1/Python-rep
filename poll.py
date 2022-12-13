@@ -3,8 +3,8 @@ responses = {}
 polling_active = True
 
 while polling_active:
-  name = input("\nWhat is your name?")
-  response = input("\nWhat do you want to do now?")
+  name = input("\nWhat is your name? ")
+  response = input("What do you want to do now? ")
   responses[name] = response
   print("Cool!")
   
