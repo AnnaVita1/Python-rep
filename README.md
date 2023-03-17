@@ -1,2 +1,2 @@
 # take a poll
-# have a nice day ☕ 🎼 :octocat: 🐈
+# have a nice day ☕ 🐈
